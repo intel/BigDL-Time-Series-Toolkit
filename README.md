@@ -14,8 +14,7 @@ BigDL Time Series Toolkit and the workflow example shown below could be run wide
 |---| ---------------------------- | --------- |
 |CPU| Intel® 4th Gen Xeon® Scalable Performance processors| BF16 |
 |CPU| Intel® 1st, 2nd, 3rd, and 4th Gen Xeon® Scalable Performance processors| FP32/INT8 |
-|Memory|>192G|
-|Disk|>10G|
+
 
 ## How it Works
 Provided example workflow (https://github.com/intel/BigDL-Time-Series-Toolkit/edit/main/DEVCATALOG.mdtakes ) shows how to use history taxi traffic number in past 1 day and predict future 30 min's taxi traffic number.
