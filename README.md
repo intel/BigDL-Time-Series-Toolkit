@@ -31,4 +31,4 @@ Nothing for now
 
 The BigDL Time Series Toolkit team tracks both bugs and
 enhancement requests using [GitHub
-issues](https://github.com/intel-analytics/BigDL/issues).
+issues](https://github.com/intel-analytics/BigDL-2.x/issues).
