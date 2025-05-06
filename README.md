@@ -19,7 +19,7 @@ BigDL Time Series Toolkit and the workflow example shown below could be run wide
 ## How it Works
 Provided example workflow (https://github.com/intel/BigDL-Time-Series-Toolkit/edit/main/DEVCATALOG.md) shows how to use history taxi traffic number in past 1 day and predict future 30 min's taxi traffic number.
 ## Learn More
-- [Document First page](https://bigdl.readthedocs.io/en/latest/doc/Chronos/index.html) (you may start from here and navigate to other pages)
+- [Document First page](https://bigdl.readthedocs.io/en/latest/doc/Chronos/index.html) (You may start from here and navigate to other pages)
 - [How to Guides](https://bigdl.readthedocs.io/en/latest/doc/Chronos/Howto/index.html) (If you are meeting with some specific problems during the usage, how-to guides are good place to be checked.)
 - [Example & Use-case library](https://bigdl.readthedocs.io/en/latest/doc/Chronos/QuickStart/index.html) (Examples provides short, high quality use case that users can emulated in their own works.)
 
