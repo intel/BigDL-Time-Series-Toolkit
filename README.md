@@ -1,3 +1,8 @@
+# THIS PROJECT IS ARCHIVED   
+Intel will not provide or guarantee development of or support for this project, including but not limited to, maintenance, bug fixes, new releases or updates.  
+Patches to this project are no longer accepted by Intel.  
+ If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the community, please create your own fork of the project.  
+  
 ## Solution Technical Overview
 
 Time series forecasting could be a critical demand in real-life senarios, such as network loading prediction, server utilization prediction, traffic flow prediction and so on. While the developing process for an AI end-to-end could be error-prone and time-consuming, let alone meeting a strict accuracy or performance requirement.
